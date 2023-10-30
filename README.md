@@ -1,4 +1,4 @@
-Hi ![](https://gifdb.com/gif/cute-wave-emoji-hand-59s88kk0zj3xho40.html?embed=true)My name is Moshood Saka
+Hi! 👋 My name is Moshood Saka
 ====================================================================================================================================
 
 Software Engineer | Full-Stack Developer
