@@ -9,7 +9,6 @@ I love working end-to-end on software features and making the lives of end-users
 * 🌍  I'm based in Ontario, CA.
 * 🖥️  See my portfolio at [moshoodsaka.com](http://moshoodsaka.com)
 * ✉️  You can contact me at [sakamoshood@ymail.com](mailto:sakamoshood@ymail.com)
-* 🚀  I'm currently working on [Pivot Integrated Technologies](http://pivotintegratedtechnologies.com)
 * 🧠  I'm learning AI/ML Frameworks
 * 🤝  I'm open to collaborating on AI/ML driven solutions
 * ⚡  FUN FACT: I love indoor surfing 🏄‍♂️
