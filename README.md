@@ -29,5 +29,5 @@ I love working end-to-end on software features and making the lives of end-users
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/saka01"><img src="https://github-readme-stats.vercel.app/api?username=saka01&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="saka01's GitHub stats" /></a>
+<a href="http://www.github.com/saka0"><img src="https://github-readme-stats.vercel.app/api?username=saka01&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="saka01's GitHub stats" /></a>
 
