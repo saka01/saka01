@@ -1,7 +1,7 @@
 Hi! 👋 My name is Moshood Saka
 ====================================================================================================================================
 
-Software Engineer | Full-Stack Developer
+Software Engineer
 ----------------------------------------
 
 I love working end-to-end on software features and making the lives of end-users/associate developers/clients easier.
